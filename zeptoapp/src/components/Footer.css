@@ -1,0 +1,25 @@
+.container-fluid .fa-brands{
+    margin-left: 10px;
+    font-size: 20px;
+    color: rgb(148, 179, 154);
+}
+.container-fluid h1{
+    color:rgb(236, 42, 8)
+}
+.container-fluid{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container-fluid a{
+    text-decoration: none;
+    color: black;
+}
+.container-fluid a h5{
+    font-size: 16px;
+    margin-top: 20px;
+    color: rgb(79, 101, 83);
+   
+}
+.container-fluid a .fa-brands{
+    color: black;
+}

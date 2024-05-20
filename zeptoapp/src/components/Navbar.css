@@ -1,0 +1,28 @@
+.container h1{
+        color: rgb(109, 9, 155);
+}
+.container .search{
+    height: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.loginpage{
+    display: none;
+    margin-left: 550px;
+   text-align: center ;
+   background-color: rgb(202, 40, 247);
+    width: 25%;
+    border: 1px solid black;
+}
+.loginpage input{
+    padding: 10px 30px;
+}
+.loginpage button{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: brown;
+    color: beige;
+    padding: 8px 60px;
+    border-radius: 5px;
+}

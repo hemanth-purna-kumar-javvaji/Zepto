@@ -1,0 +1,21 @@
+.body-desc{
+    width:500px;
+    margin-top: 100px;
+    margin-left: 550px;
+    text-align: center;
+}
+.body-desc h3{
+    margin-right: 80px;
+}
+.body-desc p{
+    width: 350px;
+    margin-left: 90px;
+}
+.body-desc p .fa-brands{
+    width: 20px;
+    margin-right: 80px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgb(38, 0, 255);
+    cursor: pointer;
+}
